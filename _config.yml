@@ -1,6 +1,16 @@
-title: "d4vnull"
-description: "MY journey"
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+title: d4vnull | David Amir
+tagline: Jr. Penetration tester.
+description: >- 
+  A personal blog about cybersecurity, CTF writeups, and penetration testing.
+  
+theme: jekyll-theme-chirpy
+theme_mode: dark
+
+author:
+  name: d4vnull | David Amir
+  email: davidamir0007@gmial.com
+  github: https://github.com/d4vnull
+  linkedin: https://www.linkedin.com/in/d4vnull
+
+sidebar:
+  avatar: /assets/img/d4vnull.jpg
